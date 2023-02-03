@@ -1,4 +1,7 @@
 # LG-AImers
+
+train.csv 파일과 test.csv, sample_submission.csv 파일을 구글 드라이브의 'LGAImers'라는 폴더 생성 후 안에 저장한다.
+
 train.csv [파일]
 
 PRODUCT_ID : 제품의 고유 ID
